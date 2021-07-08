@@ -2,7 +2,7 @@ var ip_adress,country_code;
 function callback( response ){
 ip_adress = response.IPv4;
 country_code = response.country_code;
-var list = ['JO', 'IQ', 'KW', 'SA', 'OM', 'AE', 'BH', 'QA', 'EG'];
+var list = ['JO', 'IQ', 'KW', 'SA', 'OM', 'AE', 'BH', 'QA', 'EG' ,'MA'];
 var SelecTcountry = document.getElementById('SelecTcountry');
 
     if(list.includes(country_code)){
